@@ -1,4 +1,5 @@
-"# Mathematics-for-Machine-Learning-Linear-Algebra                                   Identifying special matrices - Identifying special matrices.py       " 
+"# Mathematics-for-Machine-Learning-Linear-Algebra   
+
 1st < week 3 < < Identifying special matrices -< Identifying special matrices.py
 Instructions
 In this assignment, you shall write a function that will test 
